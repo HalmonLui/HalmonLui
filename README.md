@@ -1,7 +1,7 @@
 ### Hello 👋
 I'm Halmon Lui, a Full-Stack developer at [Reggora](https://www.reggora.com/), a hackathon addict and a climbing addict. 
 
-If you can't find me on a rock, you can find me at my computer. 
+If I'm not at my desk, I'm on top of a rock (or at least trying to be).
 
 Visit my website at https://halmonlui.com 
 
