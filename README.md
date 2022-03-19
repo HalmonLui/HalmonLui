@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm Halmon Lui, a Full-Stack developer at [Reggora](https://www.reggora.com/), a hackathon addict and a climbing addict. 
+I'm Halmon Lui, a Tech Lead and Fullstack Developer at [Reggora](https://www.reggora.com/), a hackathon addict and a climbing addict. 
 
 If I'm not at my desk, I'm on top of a rock (or at least trying to be).
 
