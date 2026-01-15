@@ -1,7 +1,7 @@
 ### Hello 👋
-I'm Halmon Lui, a Fullstack Software Engineer at [Indeed](https://www.indeed.com/), a hackathon addict and a climbing addict. 
+I'm Halmon Lui, a Fullstack Software Engineer at [Prepared](https://www.prepared911.com/), a hackathon and a climbing addict. 
 
-If I'm not at my desk, I'm on top of a rock (or at least trying to be).
+If I'm not at my desk, I'm probably in the mountains.
 
 Visit my website at https://halmonlui.com 
 
